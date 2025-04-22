@@ -16,13 +16,9 @@ View and interact with the app here for a live demo:
 
 
 ## Screenshots
-| Dashboard & Slider | Filter by TV Show/Movie | Filter by Searching for Title | Scatterplot
-
-
-![Dashboard and slider](./screenshots/app_dashboard.png)
-![Filter by TV Show/Movie](./screenshots/filter_by_show.png)
-![Filter by title](./screenshots/filter_by_title.png)
-![Scatterplot to visualize](./screenshots/scatterplot.png)
+| Dashboard & Slider | Filter by TV Show/Movie | Filter by Searching for Title | Scatterplot|
+|--------------------|-------------------------|-------------------------------|--------------|
+![Dashboard and slider](./screenshots/app_dashboard.png) | ![Filter by TV Show/Movie](./screenshots/filter_by_show.png) | ![Filter by title](./screenshots/filter_by_title.png) | ![Scatterplot to visualize](./screenshots/scatterplot.png)
 
 ## To Run Locally
 ```bash
